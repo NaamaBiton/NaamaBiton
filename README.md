@@ -16,7 +16,7 @@ DevOps/Cloud Engineer with hands-on experience in AWS, Kubernetes, Terraform, CI
 ## Stack
 
 `Python` · `JavaScript` · `Bash` · `AWS` · `OpenShift` · `Kubernetes` · `Docker` · `Terraform` · `Ansible`  
-`Splunk` · `Wazuh` · `Grafana` · `Loki` · `GitHub Actions` · `Linux`
+`Splunk` · `Wazuh` · `GitHub Actions` · `Linux`
 
 ---
 
